@@ -1,0 +1,115 @@
+[31-Mar-2017 02:22:04 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/duchio/lfitokyo.com/init.php on line 3
+[31-Mar-2017 02:22:04 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/duchio/lfitokyo.com/ajax/ajax.dual.php on line 6
+[31-Mar-2017 02:22:04 America/Chicago] PHP Fatal error:  Call to a member function fetch_object() on null in /home/duchio/lfitokyo.com/ajax/ajax.dual.php on line 7
+[31-Mar-2017 02:22:58 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/duchio/lfitokyo.com/init.php on line 3
+[31-Mar-2017 02:22:58 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/duchio/lfitokyo.com/ajax/ajax.dual.php on line 6
+[31-Mar-2017 02:22:58 America/Chicago] PHP Fatal error:  Call to a member function fetch_object() on null in /home/duchio/lfitokyo.com/ajax/ajax.dual.php on line 7
+[31-Mar-2017 02:27:51 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (2) in /home/duchio/lfitokyo.com/init.php on line 3
+[31-Mar-2017 02:27:51 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/duchio/lfitokyo.com/ajax/ajax.dual.php on line 6
+[31-Mar-2017 02:27:51 America/Chicago] PHP Fatal error:  Call to a member function fetch_object() on null in /home/duchio/lfitokyo.com/ajax/ajax.dual.php on line 7
+[31-Mar-2017 02:35:42 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (2) in /home/duchio/lfitokyo.com/init.php on line 3
+[31-Mar-2017 02:35:42 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/duchio/lfitokyo.com/ajax/ajax.dual.php on line 6
+[31-Mar-2017 02:35:42 America/Chicago] PHP Fatal error:  Call to a member function fetch_object() on null in /home/duchio/lfitokyo.com/ajax/ajax.dual.php on line 7
+[31-Mar-2017 02:35:49 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (2) in /home/duchio/lfitokyo.com/init.php on line 3
+[31-Mar-2017 02:35:49 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/duchio/lfitokyo.com/ajax/ajax.dual.php on line 6
+[31-Mar-2017 02:35:49 America/Chicago] PHP Fatal error:  Call to a member function fetch_object() on null in /home/duchio/lfitokyo.com/ajax/ajax.dual.php on line 7
+[31-Mar-2017 02:35:49 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (2) in /home/duchio/lfitokyo.com/init.php on line 3
+[31-Mar-2017 02:35:49 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/duchio/lfitokyo.com/ajax/ajax.dual.php on line 6
+[31-Mar-2017 02:35:49 America/Chicago] PHP Fatal error:  Call to a member function fetch_object() on null in /home/duchio/lfitokyo.com/ajax/ajax.dual.php on line 7
+[31-Mar-2017 02:36:47 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (2) in /home/duchio/lfitokyo.com/init.php on line 3
+[31-Mar-2017 02:36:47 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/duchio/lfitokyo.com/ajax/ajax.dual.php on line 6
+[31-Mar-2017 02:36:47 America/Chicago] PHP Fatal error:  Call to a member function fetch_object() on null in /home/duchio/lfitokyo.com/ajax/ajax.dual.php on line 7
+[31-Mar-2017 02:37:10 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (2) in /home/duchio/lfitokyo.com/init.php on line 3
+[31-Mar-2017 02:37:10 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/duchio/lfitokyo.com/ajax/ajax.dual.php on line 6
+[31-Mar-2017 02:37:10 America/Chicago] PHP Fatal error:  Call to a member function fetch_object() on null in /home/duchio/lfitokyo.com/ajax/ajax.dual.php on line 7
+[31-Mar-2017 02:39:03 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (2) in /home/duchio/lfitokyo.com/init.php on line 3
+[31-Mar-2017 02:39:03 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/duchio/lfitokyo.com/ajax/ajax.dual.php on line 6
+[31-Mar-2017 02:39:03 America/Chicago] PHP Fatal error:  Call to a member function fetch_object() on null in /home/duchio/lfitokyo.com/ajax/ajax.dual.php on line 7
+[31-Mar-2017 02:39:06 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (2) in /home/duchio/lfitokyo.com/init.php on line 3
+[31-Mar-2017 02:39:06 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/duchio/lfitokyo.com/ajax/ajax.dual.php on line 6
+[31-Mar-2017 02:39:06 America/Chicago] PHP Fatal error:  Call to a member function fetch_object() on null in /home/duchio/lfitokyo.com/ajax/ajax.dual.php on line 7
+[31-Mar-2017 02:39:25 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (2) in /home/duchio/lfitokyo.com/init.php on line 3
+[31-Mar-2017 02:39:25 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/duchio/lfitokyo.com/ajax/ajax.dual.php on line 6
+[31-Mar-2017 02:39:25 America/Chicago] PHP Fatal error:  Call to a member function fetch_object() on null in /home/duchio/lfitokyo.com/ajax/ajax.dual.php on line 7
+[31-Mar-2017 02:39:51 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (2) in /home/duchio/lfitokyo.com/init.php on line 3
+[31-Mar-2017 02:39:51 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/duchio/lfitokyo.com/ajax/ajax.dual.php on line 6
+[31-Mar-2017 02:39:51 America/Chicago] PHP Fatal error:  Call to a member function fetch_object() on null in /home/duchio/lfitokyo.com/ajax/ajax.dual.php on line 7
+[31-Mar-2017 02:39:56 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (2) in /home/duchio/lfitokyo.com/init.php on line 3
+[31-Mar-2017 02:39:56 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/duchio/lfitokyo.com/ajax/ajax.dual.php on line 6
+[31-Mar-2017 02:39:56 America/Chicago] PHP Fatal error:  Call to a member function fetch_object() on null in /home/duchio/lfitokyo.com/ajax/ajax.dual.php on line 7
+[31-Mar-2017 02:40:35 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'duch_nidma'@'localhost' (using password: YES) in /home/duchio/lfitokyo.com/init.php on line 3
+[31-Mar-2017 02:40:35 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/duchio/lfitokyo.com/ajax/ajax.dual.php on line 6
+[31-Mar-2017 02:40:35 America/Chicago] PHP Fatal error:  Call to a member function fetch_object() on null in /home/duchio/lfitokyo.com/ajax/ajax.dual.php on line 7
+[31-Mar-2017 02:40:38 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'duch_nidma'@'localhost' (using password: YES) in /home/duchio/lfitokyo.com/init.php on line 3
+[31-Mar-2017 02:40:38 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/duchio/lfitokyo.com/ajax/ajax.dual.php on line 6
+[31-Mar-2017 02:40:38 America/Chicago] PHP Fatal error:  Call to a member function fetch_object() on null in /home/duchio/lfitokyo.com/ajax/ajax.dual.php on line 7
+[31-Mar-2017 02:43:08 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'duch_nidma'@'localhost' (using password: YES) in /home/duchio/lfitokyo.com/init.php on line 3
+[31-Mar-2017 02:43:08 America/Chicago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/duchio/lfitokyo.com/ajax/ajax.dual.php on line 6
+[31-Mar-2017 02:43:08 America/Chicago] PHP Fatal error:  Call to a member function fetch_object() on null in /home/duchio/lfitokyo.com/ajax/ajax.dual.php on line 7
+[31-Mar-2017 02:51:53 America/Chicago] PHP Notice:  Undefined variable: lowScorePeople in /home/duchio/lfitokyo.com/process.php on line 50
+[31-Mar-2017 02:51:55 America/Chicago] PHP Notice:  Undefined variable: lowScorePeople in /home/duchio/lfitokyo.com/process.php on line 50
+[31-Mar-2017 02:52:00 America/Chicago] PHP Notice:  Undefined variable: lowScorePeople in /home/duchio/lfitokyo.com/process.php on line 50
+[31-Mar-2017 02:52:48 America/Chicago] PHP Notice:  Undefined variable: lowScorePeople in /home/duchio/lfitokyo.com/process.php on line 50
+[31-Mar-2017 02:52:49 America/Chicago] PHP Notice:  Undefined variable: lowScorePeople in /home/duchio/lfitokyo.com/process.php on line 50
+[31-Mar-2017 02:52:51 America/Chicago] PHP Notice:  Undefined variable: lowScorePeople in /home/duchio/lfitokyo.com/process.php on line 50
+[31-Mar-2017 02:52:52 America/Chicago] PHP Notice:  Undefined variable: lowScorePeople in /home/duchio/lfitokyo.com/process.php on line 50
+[31-Mar-2017 02:52:59 America/Chicago] PHP Notice:  Undefined variable: lowScorePeople in /home/duchio/lfitokyo.com/process.php on line 50
+[31-Mar-2017 02:53:01 America/Chicago] PHP Notice:  Undefined variable: lowScorePeople in /home/duchio/lfitokyo.com/process.php on line 50
+[31-Mar-2017 02:53:03 America/Chicago] PHP Notice:  Undefined variable: lowScorePeople in /home/duchio/lfitokyo.com/process.php on line 50
+[31-Mar-2017 02:59:37 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/duchio/lfitokyo.com/process.php on line 38
+[31-Mar-2017 02:59:41 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/duchio/lfitokyo.com/process.php on line 38
+[31-Mar-2017 02:59:55 America/Chicago] PHP Notice:  Undefined variable: lowScorePeople in /home/duchio/lfitokyo.com/process.php on line 50
+[31-Mar-2017 02:59:56 America/Chicago] PHP Notice:  Undefined variable: lowScorePeople in /home/duchio/lfitokyo.com/process.php on line 50
+[31-Mar-2017 02:59:58 America/Chicago] PHP Notice:  Undefined variable: lowScorePeople in /home/duchio/lfitokyo.com/process.php on line 50
+[31-Mar-2017 02:59:59 America/Chicago] PHP Notice:  Undefined variable: lowScorePeople in /home/duchio/lfitokyo.com/process.php on line 50
+[31-Mar-2017 03:00:05 America/Chicago] PHP Notice:  Undefined variable: lowScorePeople in /home/duchio/lfitokyo.com/process.php on line 50
+[31-Mar-2017 03:00:08 America/Chicago] PHP Notice:  Undefined variable: lowScorePeople in /home/duchio/lfitokyo.com/process.php on line 50
+[31-Mar-2017 03:00:10 America/Chicago] PHP Notice:  Undefined variable: lowScorePeople in /home/duchio/lfitokyo.com/process.php on line 50
+[31-Mar-2017 03:00:18 America/Chicago] PHP Notice:  Undefined variable: lowScorePeople in /home/duchio/lfitokyo.com/process.php on line 50
+[31-Mar-2017 03:00:20 America/Chicago] PHP Notice:  Undefined variable: lowScorePeople in /home/duchio/lfitokyo.com/process.php on line 50
+[31-Mar-2017 03:00:22 America/Chicago] PHP Notice:  Undefined variable: lowScorePeople in /home/duchio/lfitokyo.com/process.php on line 50
+[31-Mar-2017 03:00:23 America/Chicago] PHP Notice:  Undefined variable: lowScorePeople in /home/duchio/lfitokyo.com/process.php on line 50
+[31-Mar-2017 03:00:25 America/Chicago] PHP Notice:  Undefined variable: lowScorePeople in /home/duchio/lfitokyo.com/process.php on line 50
+[31-Mar-2017 03:00:28 America/Chicago] PHP Notice:  Undefined variable: lowScorePeople in /home/duchio/lfitokyo.com/process.php on line 50
+[31-Mar-2017 03:00:53 America/Chicago] PHP Notice:  Undefined variable: lowScorePeople in /home/duchio/lfitokyo.com/process.php on line 50
+[31-Mar-2017 03:00:54 America/Chicago] PHP Notice:  Undefined variable: lowScorePeople in /home/duchio/lfitokyo.com/process.php on line 50
+[31-Mar-2017 03:00:56 America/Chicago] PHP Notice:  Undefined variable: lowScorePeople in /home/duchio/lfitokyo.com/process.php on line 50
+[31-Mar-2017 03:00:58 America/Chicago] PHP Notice:  Undefined variable: lowScorePeople in /home/duchio/lfitokyo.com/process.php on line 50
+[31-Mar-2017 03:01:00 America/Chicago] PHP Notice:  Undefined variable: lowScorePeople in /home/duchio/lfitokyo.com/process.php on line 50
+[31-Mar-2017 03:01:34 America/Chicago] PHP Notice:  Undefined variable: lowScore in /home/duchio/lfitokyo.com/process.php on line 37
+[31-Mar-2017 03:01:34 America/Chicago] PHP Notice:  Undefined variable: lowScore in /home/duchio/lfitokyo.com/process.php on line 38
+[31-Mar-2017 03:01:34 America/Chicago] PHP Notice:  Undefined variable: lowScorePeople in /home/duchio/lfitokyo.com/process.php on line 50
+[31-Mar-2017 03:01:35 America/Chicago] PHP Notice:  Undefined variable: lowScore in /home/duchio/lfitokyo.com/process.php on line 37
+[31-Mar-2017 03:01:35 America/Chicago] PHP Notice:  Undefined variable: lowScore in /home/duchio/lfitokyo.com/process.php on line 38
+[31-Mar-2017 03:01:35 America/Chicago] PHP Notice:  Undefined variable: lowScorePeople in /home/duchio/lfitokyo.com/process.php on line 50
+[31-Mar-2017 03:01:36 America/Chicago] PHP Notice:  Undefined variable: lowScore in /home/duchio/lfitokyo.com/process.php on line 37
+[31-Mar-2017 03:01:36 America/Chicago] PHP Notice:  Undefined variable: lowScore in /home/duchio/lfitokyo.com/process.php on line 38
+[31-Mar-2017 03:01:36 America/Chicago] PHP Notice:  Undefined variable: lowScorePeople in /home/duchio/lfitokyo.com/process.php on line 50
+[31-Mar-2017 03:01:41 America/Chicago] PHP Notice:  Undefined variable: lowScore in /home/duchio/lfitokyo.com/process.php on line 37
+[31-Mar-2017 03:01:41 America/Chicago] PHP Notice:  Undefined variable: lowScore in /home/duchio/lfitokyo.com/process.php on line 38
+[31-Mar-2017 03:01:41 America/Chicago] PHP Notice:  Undefined variable: lowScorePeople in /home/duchio/lfitokyo.com/process.php on line 50
+[31-Mar-2017 03:01:42 America/Chicago] PHP Notice:  Undefined variable: lowScore in /home/duchio/lfitokyo.com/process.php on line 37
+[31-Mar-2017 03:01:42 America/Chicago] PHP Notice:  Undefined variable: lowScore in /home/duchio/lfitokyo.com/process.php on line 38
+[31-Mar-2017 03:01:42 America/Chicago] PHP Notice:  Undefined variable: lowScorePeople in /home/duchio/lfitokyo.com/process.php on line 50
+[31-Mar-2017 03:01:44 America/Chicago] PHP Notice:  Undefined variable: lowScore in /home/duchio/lfitokyo.com/process.php on line 37
+[31-Mar-2017 03:01:44 America/Chicago] PHP Notice:  Undefined variable: lowScore in /home/duchio/lfitokyo.com/process.php on line 38
+[31-Mar-2017 03:01:44 America/Chicago] PHP Notice:  Undefined variable: lowScorePeople in /home/duchio/lfitokyo.com/process.php on line 50
+[31-Mar-2017 03:01:45 America/Chicago] PHP Notice:  Undefined variable: lowScore in /home/duchio/lfitokyo.com/process.php on line 37
+[31-Mar-2017 03:01:45 America/Chicago] PHP Notice:  Undefined variable: lowScore in /home/duchio/lfitokyo.com/process.php on line 38
+[31-Mar-2017 03:01:45 America/Chicago] PHP Notice:  Undefined variable: lowScorePeople in /home/duchio/lfitokyo.com/process.php on line 50
+[31-Mar-2017 03:01:46 America/Chicago] PHP Notice:  Undefined variable: lowScore in /home/duchio/lfitokyo.com/process.php on line 37
+[31-Mar-2017 03:01:46 America/Chicago] PHP Notice:  Undefined variable: lowScore in /home/duchio/lfitokyo.com/process.php on line 38
+[31-Mar-2017 03:01:46 America/Chicago] PHP Notice:  Undefined variable: lowScorePeople in /home/duchio/lfitokyo.com/process.php on line 50
+[31-Mar-2017 03:01:47 America/Chicago] PHP Notice:  Undefined variable: lowScore in /home/duchio/lfitokyo.com/process.php on line 37
+[31-Mar-2017 03:01:47 America/Chicago] PHP Notice:  Undefined variable: lowScore in /home/duchio/lfitokyo.com/process.php on line 38
+[31-Mar-2017 03:01:47 America/Chicago] PHP Notice:  Undefined variable: lowScorePeople in /home/duchio/lfitokyo.com/process.php on line 50
+[31-May-2017 10:48:56 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/duchio/lfitokyo.com/process.php on line 20
+[31-May-2017 10:49:00 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/duchio/lfitokyo.com/process.php on line 20
+[31-May-2017 10:49:02 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/duchio/lfitokyo.com/process.php on line 20
+[31-May-2017 10:49:13 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/duchio/lfitokyo.com/process.php on line 20
+[31-May-2017 10:49:15 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/duchio/lfitokyo.com/process.php on line 20
+[31-May-2017 10:49:16 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/duchio/lfitokyo.com/process.php on line 20
+[31-May-2017 10:49:19 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/duchio/lfitokyo.com/process.php on line 20
+[31-May-2017 10:50:31 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/duchio/lfitokyo.com/process.php on line 20
+[31-May-2017 10:50:33 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/duchio/lfitokyo.com/process.php on line 20
+[31-May-2017 10:50:34 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/duchio/lfitokyo.com/process.php on line 20

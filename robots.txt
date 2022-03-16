@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /photos
+Disallow: /css
+Disallow: /ajax
